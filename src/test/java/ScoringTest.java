@@ -15,7 +15,13 @@ public class ScoringTest {
     @Test
     void should_return_ten_score() {
         String[] scoreCard = { "-5", "--", "--" , "2-" , "--" , "3-" , "--" , "--" , "--" , "--" , "--"};
-        assertEquals(ScoreCard.bowling(scoreCard), 10);
+        assertEquals(10, ScoreCard.bowling(scoreCard));
+    }
+
+    @Test
+    void should_return_13_score() {
+        String[] scoreCard = { "-5", "--", "--" , "2-" , "--" , "3-" , "--" , "--" , "-3" , "--" , "--"};
+        assertEquals(13, ScoreCard.bowling(scoreCard));
     }
 
 }
