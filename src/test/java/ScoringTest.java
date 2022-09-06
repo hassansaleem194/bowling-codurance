@@ -24,4 +24,12 @@ public class ScoringTest {
         assertEquals(13, ScoreCard.bowling(scoreCard));
     }
 
+    @Test
+    void should_return_three_hundred_score() {
+        String[] scoreCard = { "X", "X", "X" , "X" , "X" , "X" , "X" , "X" , "X" , "X" , "X"};
+        assertEquals(300, ScoreCard.bowling(scoreCard));
+    }
+
+
+
 }

@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68bc52da-5e0e-4742-93af-e6f9e45a0b08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/codurance/ScoreCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codurance/ScoreCard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ScoringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ScoringTest.java" afterDir="false" />
     </list>
@@ -35,13 +33,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.codurance" />
@@ -50,7 +48,16 @@
       <recent name="org.codurance" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ScoringTest">
+  <component name="RunManager" selected="JUnit.ScoringTest (1)">
+    <configuration name="ScoringTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bowling-codurance" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ScoringTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ScoringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Bowling" />
       <option name="PACKAGE_NAME" value="" />
@@ -82,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ScoringTest (1)" />
         <item itemvalue="JUnit.ScoringTest" />
         <item itemvalue="JUnit.ScoringTest.should_return_ten_score" />
         <item itemvalue="JUnit.ScoringTest.should_return_empty_score" />
