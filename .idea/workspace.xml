@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68bc52da-5e0e-4742-93af-e6f9e45a0b08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codurance/ScoreCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ScoringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codurance/ScoreCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codurance/ScoreCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ScoringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ScoringTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/meryemsel/Documents/GitHub/bowling-codurance"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -48,7 +48,16 @@
       <recent name="org.codurance" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ScoringTest.should_return_empty_score">
+  <component name="RunManager" selected="JUnit.ScoringTest (1)">
+    <configuration name="ScoringTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bowling-codurance" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ScoringTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ScoringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Bowling" />
       <option name="PACKAGE_NAME" value="" />
@@ -70,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ScoringTest (1)" />
         <item itemvalue="JUnit.ScoringTest.should_return_empty_score" />
         <item itemvalue="JUnit.ScoringTest" />
       </list>
